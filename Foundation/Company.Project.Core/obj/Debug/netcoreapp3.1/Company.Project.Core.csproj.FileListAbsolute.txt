@@ -1,0 +1,10 @@
+C:\Users\ASUS\Downloads\Company.Projectss\Company.Project\Foundation\Company.Project.Core\bin\Debug\netcoreapp3.1\Company.Project.Core.deps.json
+C:\Users\ASUS\Downloads\Company.Projectss\Company.Project\Foundation\Company.Project.Core\bin\Debug\netcoreapp3.1\Company.Project.Core.dll
+C:\Users\ASUS\Downloads\Company.Projectss\Company.Project\Foundation\Company.Project.Core\bin\Debug\netcoreapp3.1\Company.Project.Core.pdb
+C:\Users\ASUS\Downloads\Company.Projectss\Company.Project\Foundation\Company.Project.Core\obj\Debug\netcoreapp3.1\Company.Project.Core.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\Company.Projectss\Company.Project\Foundation\Company.Project.Core\obj\Debug\netcoreapp3.1\Company.Project.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\Company.Projectss\Company.Project\Foundation\Company.Project.Core\obj\Debug\netcoreapp3.1\Company.Project.Core.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\Company.Projectss\Company.Project\Foundation\Company.Project.Core\obj\Debug\netcoreapp3.1\Company.Project.Core.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\Company.Projectss\Company.Project\Foundation\Company.Project.Core\obj\Debug\netcoreapp3.1\Company.Project.Core.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Company.Projectss\Company.Project\Foundation\Company.Project.Core\obj\Debug\netcoreapp3.1\Company.Project.Core.dll
+C:\Users\ASUS\Downloads\Company.Projectss\Company.Project\Foundation\Company.Project.Core\obj\Debug\netcoreapp3.1\Company.Project.Core.pdb
